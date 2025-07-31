@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 793998193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b52faf9c852ed3e842e07ab61d9e7d51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d168fed9fe043c4ac9202d732cb740e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f43d9a8ade3042fb9b60ea46638f1d66
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32d6c5644cf193a4f80455d5b9b1a8ff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/plant.prefab
+Dependencies: []

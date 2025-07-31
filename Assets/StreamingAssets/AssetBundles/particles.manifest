@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 231889110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0b386b8abe6df1d6561e733ccf1f48a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b15b9c678cdad0371750cf85900480d4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6b08db18f8034c7aa9bf237f951a5147
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6449c73b2dc1de24f9739643a0177383, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/fire_particle.prefab
+Dependencies: []
